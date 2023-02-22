@@ -1,3 +1,6 @@
+> :construction: **Note**
+> This is a fork while experimenting with the Nix flake. Use the [upstream repository](https://github.com/charmbracelet/gum) for serious work.
+
 Gum
 ===
 
